@@ -22,7 +22,7 @@ Execute the C Program for the desired output.
 ## 1.To Write a C program that illustrates files copying 
 
 
-```
+```c
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -76,14 +76,14 @@ int main(int argc, char *argv[]) {
 
 ```
 
-## OUTPUT
+## OUTPUT:
 
-![alt text](1.png)
+<img width="436" height="380" alt="Screenshot 2025-11-28 183307" src="https://github.com/user-attachments/assets/302fa20e-4770-4e5d-a871-77ea8f50f7d8" />
 
 ## 2.To Write a C program that illustrates files locking
 
 
-```
+```c
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -153,9 +153,6 @@ int main(int argc, char *argv[]) {
 ```
 
 ## OUTPUT:
-
-
-<img width="436" height="380" alt="Screenshot 2025-11-28 183307" src="https://github.com/user-attachments/assets/302fa20e-4770-4e5d-a871-77ea8f50f7d8" />
 
 <img width="838" height="635" alt="Screenshot 2025-11-28 183549" src="https://github.com/user-attachments/assets/224197b5-6d55-4dea-a65e-1d7405fc388f" />
 
